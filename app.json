@@ -25,6 +25,8 @@
     "android": {
       "package": "com.apps.weather",
       "versionCode": 1
-    }
+    },
+    "description": "It a weather app based on your geolocation",
+    "githubUrl": "https://github.com/Aneerudh2k2/WeatherApp.git"
   }
 }
