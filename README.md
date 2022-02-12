@@ -2,4 +2,4 @@
 
 ## A basic android app using react native with weather api
 
-![gif](Weather app.gif)
+<img src="Weather app.gif" width="30%" height="25%" />
